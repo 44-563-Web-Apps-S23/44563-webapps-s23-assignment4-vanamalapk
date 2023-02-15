@@ -1,0 +1,28 @@
+.speech{
+    font: icon;
+    font-size: medium;
+    color: black;
+
+}
+.direction{
+    font: italic;
+    font-size: small;
+    color: black;
+    background-color: aqua;
+}
+.direction:hover{
+    background-color: bisque;
+    color: azure;
+
+}
+.name{
+    font-style: italic ;
+    font-size: 10px;
+    color: blue;
+} 
+.name2{
+    font-style:oblique ;
+    font: size 10px;
+    color: brown;
+
+}
