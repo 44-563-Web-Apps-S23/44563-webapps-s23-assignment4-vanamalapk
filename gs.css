@@ -11,8 +11,10 @@
     background-color: aqua;
 }
 .direction:hover{
+    text-shadow: 2px 2px 2px red;
     background-color: bisque;
-    color: azure;
+    color: red;
+    filter: blur(0.5px);
 
 }
 .name{
@@ -30,14 +32,16 @@
     color:chocolate;
 }
 table,td,th{
-    border:black;
+    border:1px solid black;
 }
 table{
     color: darkorange;
-    border-collapse:initial;
-    width:fit-content;
-    margin-left:auto;
+    border-collapse:collapse;
+    width: 75%;
+    margin-left: 100px;
     text-align: center;
-    padding: 15px;
+    padding: auto;
+    padding: 15px 15px 15px 15px;
 
 }
+tr:nth-child(even){background-color: aliceblue;}
