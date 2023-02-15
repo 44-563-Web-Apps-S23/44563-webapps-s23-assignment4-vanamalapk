@@ -2,7 +2,6 @@
     font: icon;
     font-size: medium;
     color: black;
-
 }
 .direction{
     font: italic;
@@ -15,7 +14,6 @@
     background-color: bisque;
     color: red;
     filter: blur(0.5px);
-
 }
 .ZAMA{
     font-style: italic ;
@@ -26,7 +24,6 @@
     font-style:oblique ;
     font: size 10px;
     color: brown;
-
 }
 #playname{
     color:chocolate;
@@ -42,6 +39,5 @@ table{
     text-align: center;
     padding: auto;
     padding: 15px 15px 15px 15px;
-
 }
 tr:nth-child(even){background-color: aliceblue;}
