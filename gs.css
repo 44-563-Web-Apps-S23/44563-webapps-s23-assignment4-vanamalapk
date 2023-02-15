@@ -26,3 +26,18 @@
     color: brown;
 
 }
+#playname{
+    color:chocolate;
+}
+table,td,th{
+    border:black;
+}
+table{
+    color: darkorange;
+    border-collapse:initial;
+    width:fit-content;
+    margin-left:auto;
+    text-align: center;
+    padding: 15px;
+
+}
