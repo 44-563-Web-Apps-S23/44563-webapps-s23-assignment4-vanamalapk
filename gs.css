@@ -15,6 +15,10 @@
     color: red;
     filter: blur(0.5px);
 }
+.fa,fa-flag,fa-flag-olstt{
+ width: 20px;
+ height: 20px;
+}
 .ZAMA{
     font-style: italic ;
     font-size: 10px;
@@ -59,4 +63,36 @@ table{
     padding: auto;
     padding: 15px 15px 15px 15px;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:orange;
+  }
+  
+  li {
+    float: left;
+    border-right:1px solid #bbb;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color:pink;
+  }
+  
+  .active {
+    background-color:violet;
+  }
 tr:nth-child(even){background-color: aliceblue;}
