@@ -25,6 +25,25 @@
     font: size 10px;
     color: brown;
 }
+.OHANO:hover{
+    text-shadow: 2px 2px 2px red;
+    background-color: black;
+    color: red;
+    filter: blur(0.5px);
+    font-size: 25px;
+    border-style: solid;
+    border-color: yellow;
+
+}
+.ZAMA:hover{
+    text-shadow: 2px 2px 2px red;
+    background-color: black;
+    color: red;
+    font-size: 25px;
+    filter: blur(0.5px);
+    border-style: solid;
+    border-color: yellow;
+}
 #playname{
     color:chocolate;
 }
